@@ -82,7 +82,7 @@
 │   Frontend      │    │   Backend API   │    │   Data Sources  │
 │   (HTML/CSS/JS) │◄──►│   (Express.js)  │◄──►│   (Multiple)    │
 │                 │    │                 │    │                 │
-│ • Leaflet Maps  │    │ • RESTful APIs  │    │ • MyNeta API    │
+│ • Leaflet Maps  │    │ • RESTful APIs  │    │ • Vercel API    │
 │ • Real-time UI  │    │ • WebSocket     │    │ • Appwrite DB   │
 │ • Search Engine │    │ • Security MW   │    │ • GeoJSON Data  │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
