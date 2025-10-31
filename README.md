@@ -33,7 +33,6 @@
 - **🔍 Smart Search**: Find representatives by name, constituency, or party affiliation
 - **👥 Detailed Profiles**: Comprehensive information on MPs, MLAs, and their performance
 - **🛡️ Secure & Reliable**: Enterprise-level security with government-grade data protection
-- **📱 Mobile-First**: Optimized experience across all devices
 - **⚡ Real-time Updates**: Live data synchronization and electoral intelligence
 
 ### 🌟 **Key Features**
