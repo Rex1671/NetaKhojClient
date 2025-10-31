@@ -198,9 +198,8 @@ LOG_TO_FILE=true
 ### **Data Processing Pipeline**
 1. **Collection**: Automated data collection from official government sources
 2. **Validation**: Data integrity and consistency verification
-3. **Enrichment**: AI-powered data enhancement and cross-referencing
-4. **Storage**: Secure, encrypted data storage with backup systems
-5. **Serving**: Optimized API responses with intelligent caching
+3. **Storage**: Secure, encrypted data storage with backup systems
+4. **Serving**: Optimized API responses with intelligent caching
 
 > **🔒 Security Note**: For security and compliance reasons, some internal data processing files and sensitive configuration details are not included in this public repository.
 
@@ -296,7 +295,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 **Acknowledgments**
 
 - **Election Commission of India** for electoral data
-- **MyNeta.info** for comprehensive candidate database
 - **OpenStreetMap** contributors for mapping data
 - **Leaflet.js** community for mapping library
 - **Railway** for hosting infrastructure
